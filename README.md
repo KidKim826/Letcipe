@@ -81,7 +81,7 @@
 ## Hadoop🐘
 
 <p display="inline-block">
-<img src="https://img.shields.io/badge/Hadoop-ECD53F?style=for-the-badge&logo=Apache Hadoop&logoColor=black">
+<img src="https://img.shields.io/badge/Hadoop-ECD53F?style=for-the-badge&logo=Apache">
 </p>
 
 
