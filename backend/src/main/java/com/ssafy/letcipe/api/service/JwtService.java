@@ -17,7 +17,7 @@ import java.util.Date;
 @Service
 public class JwtService {
 
-    private final String secretKey = "ssafySecret";
+    private final String secretKey = "***********";
     private final int EXPIRE_MINUTES = 60 * 24;
     private final int REFRESH_MINUTES = 60 * 24 * 7;
 
